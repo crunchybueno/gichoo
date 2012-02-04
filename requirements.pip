@@ -1,0 +1,4 @@
+-e git://github.com/nod/databag.git#egg=databag
+-e git://github.com/facebook/tornado.git#egg=tornado
+-e git://github.com/nod/tornroutes.git#egg=tornroutes
+nose
